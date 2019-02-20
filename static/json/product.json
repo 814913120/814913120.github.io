@@ -1,0 +1,32 @@
+{
+  "productArr": [
+    {
+      "name": "项目一",
+      "imgUrl": "./static/img/bg1.jpeg"
+    },
+    {
+      "name": "项目二",
+      "imgUrl": "./static/img/bg1.jpeg"
+    },
+    {
+      "name": "项目三",
+      "imgUrl": "./static/img/bg1.jpeg"
+    },
+    {
+      "name": "项目四",
+      "imgUrl": "./static/img/bg1.jpeg"
+    },
+    {
+      "name": "项目五",
+      "imgUrl": "/static/img/bg1.jpeg"
+    },
+    {
+      "name": "项目六",
+      "imgUrl": "/static/img/bg1.jpeg"
+    },
+    {
+      "name": "项目七",
+      "imgUrl": "/static/img/bg1.jpeg"
+    }
+  ]
+}
